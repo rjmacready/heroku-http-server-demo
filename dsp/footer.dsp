@@ -20,7 +20,7 @@
     <td colspan="2">
     	<a href="https://github.com/dylan-lang/http">http-server-demo</a> from <a href="http://opendylan.org">opendylan</a> running on heroku
 
-        <a href="https://github.com/rjmacready/heroku-opendylan-helloworld">Repo</a>
+        <a href="https://github.com/rjmacready/heroku-http-server-demo">Repo</a>
         <a href="https://github.com/rjmacready/heroku-buildpack-opendylan">Buildpack</a>
     </td>
   </tr>
