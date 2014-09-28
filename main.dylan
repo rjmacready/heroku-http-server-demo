@@ -331,7 +331,7 @@ end function map-resources;
 
 define function main
     ()
-  // silly changes .
+  // silly changes ..
   // If you don't need to add any new command-line arguments you can just
   // call http-server-main directly.  It allows you to pass --config <filename>
   // and other args on the command line.  Use --help to see options.
